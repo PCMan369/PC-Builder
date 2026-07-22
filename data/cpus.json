@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "r5-3600",
+    "name": "Ryzen 5 3600",
+    "socket": "AM4",
+    "ram": "DDR4",
+    "tier": 5
+  },
+  {
+    "id": "r5-5600",
+    "name": "Ryzen 5 5600",
+    "socket": "AM4",
+    "ram": "DDR4",
+    "tier": 6
+  },
+  {
+    "id": "r5-7600",
+    "name": "Ryzen 5 7600",
+    "socket": "AM5",
+    "ram": "DDR5",
+    "tier": 8
+  },
+  {
+    "id": "i5-12400f",
+    "name": "Core i5-12400F",
+    "socket": "LGA1700",
+    "ram": "DDR4/DDR5",
+    "tier": 7
+  }
+]

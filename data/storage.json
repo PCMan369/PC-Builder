@@ -1,0 +1,10 @@
+[
+  {
+    "name": "1TB NVMe SSD",
+    "kind": "SSD"
+  },
+  {
+    "name": "2TB HDD",
+    "kind": "HDD"
+  }
+]

@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "name": "B450",
+    "socket": "AM4",
+    "ram": "DDR4"
+  },
+  {
+    "name": "B550",
+    "socket": "AM4",
+    "ram": "DDR4"
+  },
+  {
+    "name": "B650",
+    "socket": "AM5",
+    "ram": "DDR5"
+  },
+  {
+    "name": "B760 DDR5",
+    "socket": "LGA1700",
+    "ram": "DDR5"
+  }
+]
