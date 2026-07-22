@@ -1,0 +1,1 @@
+console.log('PC Builder starter loaded');
